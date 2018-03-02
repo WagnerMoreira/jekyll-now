@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="626px" height="9px" viewBox="0 0 626 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>blog-header-top-line</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.061617e-15%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#DA4453" offset="0%"></stop>
+            <stop stop-color="#89216B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-327.000000, -54.000000)">
+        <g id="header" transform="translate(255.000000, 9.000000)">
+            <g id="top-line" transform="translate(72.000000, 45.000000)">
+                <g id="blog-header-top-line">
+                    <path d="M31,5.5 L595,5.5" id="Line" stroke="url(#linearGradient-1)" stroke-width="4" stroke-linecap="square"></path>
+                    <polygon id="Triangle" fill="#FFFFFF" fill-rule="evenodd" points="605.5 0 625.725876 9 585.274124 9"></polygon>
+                    <polygon id="Triangle" fill="#FFFFFF" fill-rule="evenodd" points="20.5 0 40.7258759 9 0.274124146 9"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

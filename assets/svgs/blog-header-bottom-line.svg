@@ -1,0 +1,22 @@
+
+<svg width="389px" height="5px" viewBox="0 0 389 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.061617e-15%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#DA4453" offset="0%"></stop>
+            <stop stop-color="#89216B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="hero" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Blog" transform="translate(-445.000000, -145.000000)" stroke="url(#linearGradient-1)" stroke-width="4">
+            <g id="header" transform="translate(255.000000, 9.000000)">
+                <g id="bottom-line" transform="translate(199.000000, 138.000000)">
+                    <g id="blog-header-bottom-line">
+                        <path d="M0.365618388,0.5 L176.112938,0.5 L174.989278,1 L1.48927816,1 L0.365618388,0.5 Z M196.338814,0.5 L370.634382,0.5 L369.510722,1 L197.462474,1 L196.338814,0.5 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

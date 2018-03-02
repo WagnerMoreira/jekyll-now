@@ -16,36 +16,47 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+    <section class="blog">
+      <div class="blog__header">
+        <nav class="blog__nav">
+          <h2 class="blog__title"></h2>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
+          <ul>
+            <li class="blog__navItem">
+              <a href="javascript:void(0)" title="Javascript">ABOUT</a>
+            </li>
+            <li class="blog__navItem">
+              <a href="{{ site.baseurl }}/" title="Blog home">BLOG</a>
+            </li>
+            <li class="blog__navItem">
+              <a href="javascript:void(0)" title="Stylesheets">STYLESHEETS</a>
+            </li>
+          </ul>
+        </nav>
       </div>
-    </div>
 
-    <div id="main" role="main" class="container">
       {{ content }}
-    </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
+      <div class="blog__footer">
+        <ul class="social">
+          <li class="social__item social__item--linkedin">
+            <a href="https://www.linkedin.com/in/wmoreiradev/" title="Linkedin Profile"></a>
+          </li>
+          <li class="social__item social__item--bitbucket">
+            <a href="https://bitbucket.org/wmoreiradev/" title="Bitbucket Profile"></a>
+          </li>
+          <li class="social__item social__item--github">
+            <a href="https://github.com/WagnerMoreira" title="Github Profile"></a>
+          </li>
+          <li class="social__item social__item--stackoverflow">
+            <a href="https://stackoverflow.com/users/1333320/wagner-moreira" title="Stackoverflow Profile"></a>
+          </li>
+          <li class="social__item social__item--portfolio">
+            <a href="http://wagnermoreira.com/" title="Portfolio"></a>
+          </li>
+        </ul>
       </div>
-    </div>
-
+    </section>
     {% include analytics.html %}
   </body>
 </html>
