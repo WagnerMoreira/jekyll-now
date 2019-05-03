@@ -19,4 +19,4 @@ I love sports(mostly Olympic Sports) and games, drawing and so I try to play aro
 
 Recently I've been moving towards mentoring people who are interesting into getting into web development. Considering this overwhelming amount of things to learn, having guidance makes all the difference and by helping other people I feel awesome! 😁
 
-Please check my [recommendations list](wagnermoreira.github.io/recommendations).
+Please check my [recommendations list](/recommendations).
