@@ -40,7 +40,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 'Avenir-Book';
   color: $darkGray;
 }
 
@@ -52,7 +52,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'Avenir-Book';
   color: $darkerGray;
   font-weight: bold;
 
@@ -401,18 +401,18 @@ footer {
     }
     .post {
       &__title {
-        font-family: 'Avenir';
+        font-family: 'Avenir-Book';
         font-size: 36px;
-        color: #25333E;
+        color: #525252;
         margin: 0;
         width: 70%;
         a {
-          color: #25333E;
+          color: #525252;
         }
       }
       &__text {
         font-family: 'Avenir-Next-Regular';
-        color: #25333E;
+        color: #525252;
         font-size: 20px;
       }
     }
@@ -421,13 +421,18 @@ footer {
       display: block;
       border-image: linear-gradient(to right, #480048, #C04848);
       border-image-slice: 1;
-      color: #25333E;
+      color: #525252;
       font-family: 'Avenir-Book';
       font-size: 18px;
       height: 40px;
       text-align: center;
       width: 140px;
       line-height: 33px;
+    }
+  }
+  .recommendations {
+    ul {
+      list-style: none;
     }
   }
   &__footer {

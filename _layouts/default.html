@@ -1,62 +1,66 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <!--[if lt IE 9]>
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+</head>
 
-  <body>
-    <section class="blog">
-      <div class="blog__header">
-        <nav class="blog__nav">
-          <h2 class="blog__title"></h2>
+<body>
+  <section class="blog">
+    <div class="blog__header">
+      <nav class="blog__nav">
+        <h2 class="blog__title"></h2>
 
-          <ul>
-            <li class="blog__navItem">
-              <a href="javascript:void(0)" title="Javascript">ABOUT</a>
-            </li>
-            <li class="blog__navItem">
-              <a href="{{ site.baseurl }}/" title="Blog home">BLOG</a>
-            </li>
-            <li class="blog__navItem">
-              <a href="javascript:void(0)" title="Stylesheets">STYLESHEETS</a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-
-      {{ content }}
-
-      <div class="blog__footer">
-        <ul class="social">
-          <li class="social__item social__item--linkedin">
-            <a href="https://www.linkedin.com/in/wmoreiradev/" title="Linkedin Profile"></a>
+        <ul>
+          <li class="blog__navItem">
+            <a href="/about" title="About">ABOUT</a>
           </li>
-          <li class="social__item social__item--bitbucket">
-            <a href="https://bitbucket.org/wmoreiradev/" title="Bitbucket Profile"></a>
+          <li class="blog__navItem">
+            <a href="{{ site.baseurl }}/" title="Blog home">BLOG</a>
           </li>
-          <li class="social__item social__item--github">
-            <a href="https://github.com/WagnerMoreira" title="Github Profile"></a>
-          </li>
-          <li class="social__item social__item--stackoverflow">
-            <a href="https://stackoverflow.com/users/1333320/wagner-moreira" title="Stackoverflow Profile"></a>
-          </li>
-          <li class="social__item social__item--portfolio">
-            <a href="http://wagnermoreira.com/" title="Portfolio"></a>
+          <li class="blog__navItem">
+            <a href="/recommendations" title="Recommendations">RECOMMENDATIONS</a>
           </li>
         </ul>
-      </div>
-    </section>
-    {% include analytics.html %}
-  </body>
+
+      </nav>
+    </div>
+
+    {{ content }}
+
+    <div class="blog__footer">
+      <ul class="social">
+        <li class="social__item social__item--linkedin">
+          <a href="https://www.linkedin.com/in/wmoreiradev/" title="Linkedin Profile"></a>
+        </li>
+        <li class="social__item social__item--bitbucket">
+          <a href="https://bitbucket.org/wmoreiradev/" title="Bitbucket Profile"></a>
+        </li>
+        <li class="social__item social__item--github">
+          <a href="https://github.com/WagnerMoreira" title="Github Profile"></a>
+        </li>
+        <li class="social__item social__item--stackoverflow">
+          <a href="https://stackoverflow.com/users/1333320/wagner-moreira" title="Stackoverflow Profile"></a>
+        </li>
+        <li class="social__item social__item--portfolio">
+          <a href="http://wagnermoreira.com/" title="Portfolio"></a>
+        </li>
+      </ul>
+    </div>
+  </section>
+  {% include analytics.html %}
+</body>
+
 </html>

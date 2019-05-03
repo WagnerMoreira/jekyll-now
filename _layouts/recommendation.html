@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="blog__posts">
+  <div class="blog__postsItem">
+    <div class="tags">
+      {% for item in page.tags %}
+        <div class="tags__item">{{ item }}</div>
+      {% endfor %}
+    </div>
+
+    <div class="post">
+      <h3 class="post__title">{{ page.title }}</h3>
+      <p class="post__text">
+        {{ content }}
+      </p>
+    </div>
+    <!-- <div class="read-more">read more</div> -->
+  </div>
+</div>

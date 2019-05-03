@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Nest FINAL release is here! Node.js framework built on top of TypeScript
-tags: CSS JAVASCRIPT
+title: PWAs on the Google Play Store
+tags: WEB JAVASCRIPT PWA TWA PLAYSTORE
 ---
 
 Mauris non tempor quam, et lacinia sapien. Mauris accumsan eros eget libero posuere vulputate. Etiam elit elit, elementum sed varius at, adipiscing vitae est. Sed nec felis pellentesque, lacinia dui sed, ultricies sapien. Pellentesque orci lectus
