@@ -36,8 +36,8 @@ I am sure of it because of me too, but in the last 4 years or so I put all these
 
 ### Practicing self-awareness
 
-Be aware of what is happening to you, some people don't know what is happening to them and that prevents them to help themselves. If that is your case start by practicing self review but please do not judge yourself to the bones, be king with yourself and know that everyone ~commits~ mistakes. Ap person without self-awareness will most of the time
-run on auto-pilot, which is awful. I mean why are we playing the game of life if it's in auto pilot? You have to be aware of what's happening to enjoy the game.
+Be aware of what is happening to you, some people don't know what is happening to them and that prevents them to help themselves. If that is your case start by practicing self-review but please do not judge yourself to the bones, be kind with yourself and know that everyone ~commits~ mistakes. Ap person without self-awareness will most of the time
+run on auto-pilot, which is awful. I mean why are we playing the game of life if it's in autopilot? You have to be aware of what's happening to enjoy the game.
 
 ---
 
