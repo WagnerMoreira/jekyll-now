@@ -37,13 +37,14 @@ I am sure of it because of me too, but in the last 4 years or so I put all these
 ### Practicing self-awareness
 
 Be aware of what is happening to you, some people don't know what is happening to them and that prevents them to help themselves. If that is your case start by practicing self review but please do not judge yourself to the bones, be king with yourself and know that everyone ~commits~ mistakes. Ap person without self-awareness will most of the time
-run on auto-pilot, will not be in control as they would like.
+run on auto-pilot, which is awful. I mean why are we playing the game of life if it's in auto pilot? You have to be aware of what's happening to enjoy the game.
 
 ---
 
 ### Conclusion
 
+If by the end of this content you are thinking "It's too much I give up", think twice because you need all these things either working from an office or at home.
 I recommended some "tools" that you can use to improve yourself, as any other piece of information you find on the internet, maybe only a piece or two was useful for you in this article and if that is the case I am already happy.
-Track your cycles because you will fail, but keep going and taking notes or you could have your weekly planner and every Sunday review the week and see what did and did not work, plan the next week with the actions you consider necessary to improve certain points.
+Track your cycles because you will fail, but keep going and taking notes or you could have your weekly planner and every Sunday review the week and see what did and did not work. Then plan the next week with the actions you consider necessary to improve certain points.
 
 I hope to have helped you with something with this article, Cheers!
