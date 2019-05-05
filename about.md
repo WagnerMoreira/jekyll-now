@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+active: About
 ---
 
 👋 I'm Wagner Moreira, a Senior Front End Developer from Halifax, Canada.

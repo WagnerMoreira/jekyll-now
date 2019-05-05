@@ -24,15 +24,35 @@
         <h2 class="blog__title"></h2>
 
         <ul>
-          <li class="blog__navItem">
-            <a href="{{ site.baseurl }}/" title="Blog home">BLOG</a>
-          </li>
-          <li class="blog__navItem">
-            <a href="/about" title="About">ABOUT</a>
-          </li>
-          <li class="blog__navItem">
-            <a href="/recommendations" title="Recommendations">RECOMMENDATIONS</a>
-          </li>
+          {% if page.active == "Home" %}
+            <li class="blog__navItem">
+                <a class="active" href="{{ site.baseurl }}/" title="Blog Home">Blog</a>
+            </li>
+          {% else %}
+            <li class="blog__navItem">
+                <a href="{{ site.baseurl }}/" title="Blog Home">Blog</a>
+            </li>
+          {% endif %}
+
+          {% if page.active == "About" %}
+            <li class="blog__navItem">
+                <a class="active" href="/about" title="About">ABOUT</a>
+            </li>
+          {% else %}
+            <li class="blog__navItem">
+                <a href="/about" title="About">ABOUT</a>
+            </li>
+          {% endif %}
+
+          {% if page.active == "Recommendations" %}
+            <li class="blog__navItem active">
+                <a class="active" href="/recommendations" title="Recommendations">RECOMMENDATIONS</a>
+            </li>
+          {% else %}
+            <li class="blog__navItem">
+                <a href="/recommendations" title="Recommendations">RECOMMENDATIONS</a>
+            </li>
+          {% endif %}
         </ul>
 
       </nav>
