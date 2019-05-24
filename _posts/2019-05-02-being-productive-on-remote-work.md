@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Being Productive on Remote Work
-tags: REMOTE PRODUCTIVITY REMOTE-WORk
+tags: REMOTE PRODUCTIVITY REMOTE-WORK
 ---
 
 Have you ever wondered how some people manage to work from home and still be a task killer? So here I am going to talk about this great deed of the braves! Please do not leave the page I can explain. Keeping your productivity alive and kicking requires strong habits and skills. If you do not pursue these things, don't worry because those you can build in yourself and I will tell you how.
